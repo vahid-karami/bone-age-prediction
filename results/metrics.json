@@ -1,0 +1,23 @@
+{
+  "test_images": 1892,
+  "mae_months": 7.35,
+  "mae_95ci_months": [
+    7.07,
+    7.63
+  ],
+  "rmse_months": 9.71,
+  "median_abs_error_months": 5.78,
+  "r2": 0.944,
+  "within_12_months": 0.822,
+  "baseline_mae_months": 33.43,
+  "mae_by_sex": {
+    "Female": 7.79,
+    "Male": 6.97
+  },
+  "mae_by_age_group": {
+    "0-5 y": 8.84,
+    "5-10 y": 8.08,
+    "10-15 y": 6.79,
+    "15-19 y": 7.58
+  }
+}

@@ -1,0 +1,8 @@
+# Tested on Google Colab (Python 3.11, GPU runtime). Colab already has all of these.
+tensorflow>=2.15
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python-headless
+kagglehub

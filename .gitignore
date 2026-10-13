@@ -1,0 +1,18 @@
+# Data and large artifacts: never commit the dataset or model weights
+work/
+data/
+*.zip
+*.h5
+*.keras
+*.png
+!results/*.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+kaggle.json
+.env
