@@ -115,10 +115,9 @@ This rewrite fixes the problems found in that version:
 - Increase the input resolution (448-512 px) and ensemble several models.
 - Port the model to **PyTorch / MONAI**.
 
-## Authors
+## Author
 
-- **Vahid Karami**: biomedical engineer, medical imaging and ML
-- **Ali Babaeizad**
+**Vahid Karami**: biomedical engineer, medical imaging and ML
 
 ## Acknowledgements
 
